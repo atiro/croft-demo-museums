@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tables on </title>
-    <link>https://doks.netlify.app/table/</link>
+    <link>https://atiro.github.io/croft-demo-museums/table/</link>
     <description>Recent content in Tables on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate><atom:link href="https://doks.netlify.app/table/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate><atom:link href="https://atiro.github.io/croft-demo-museums/table/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Table</title>
-      <link>https://doks.netlify.app/table/interactives/</link>
+      <link>https://atiro.github.io/croft-demo-museums/table/interactives/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/table/interactives/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/table/interactives/</guid>
       <description></description>
     </item>
     

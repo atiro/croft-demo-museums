@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://doks.netlify.app/</link>
+    <link>https://atiro.github.io/croft-demo-museums/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate>
     
-        <atom:link href="https://doks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://atiro.github.io/croft-demo-museums/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Events</title>
-      <link>https://doks.netlify.app/event/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maps</title>
-      <link>https://doks.netlify.app/map/</link>
+      <link>https://atiro.github.io/croft-demo-museums/map/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/map/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/map/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participants</title>
-      <link>https://doks.netlify.app/participant/</link>
+      <link>https://atiro.github.io/croft-demo-museums/participant/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/participant/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/participant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tables</title>
-      <link>https://doks.netlify.app/table/</link>
+      <link>https://atiro.github.io/croft-demo-museums/table/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/table/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/table/</guid>
       <description></description>
     </item>
     

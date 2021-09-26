@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on </title>
-    <link>https://doks.netlify.app/event/</link>
+    <link>https://atiro.github.io/croft-demo-museums/event/</link>
     <description>Recent content in Events on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate><atom:link href="https://doks.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate><atom:link href="https://atiro.github.io/croft-demo-museums/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Annotated Zoom</title>
-      <link>https://doks.netlify.app/event/annotated-zoom/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/annotated-zoom/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/annotated-zoom/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/annotated-zoom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collections</title>
-      <link>https://doks.netlify.app/event/collections/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/collections/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/collections/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/collections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Component</title>
-      <link>https://doks.netlify.app/event/component/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/component/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/component/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/component/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Zoom</title>
-      <link>https://doks.netlify.app/event/deep-zoom/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/deep-zoom/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/deep-zoom/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/deep-zoom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Tour</title>
-      <link>https://doks.netlify.app/event/image-tour/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/image-tour/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/image-tour/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/image-tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive</title>
-      <link>https://doks.netlify.app/event/interactive/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/interactive/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/interactive/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/interactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Page Turner</title>
-      <link>https://doks.netlify.app/event/page-turner/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/page-turner/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/page-turner/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/page-turner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slideshow</title>
-      <link>https://doks.netlify.app/event/slideshow/</link>
+      <link>https://atiro.github.io/croft-demo-museums/event/slideshow/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/event/slideshow/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/event/slideshow/</guid>
       <description></description>
     </item>
     

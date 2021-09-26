@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science Museum on </title>
-    <link>https://doks.netlify.app/participants/science-museum/</link>
+    <link>https://atiro.github.io/croft-demo-museums/participants/science-museum/</link>
     <description>Recent content in Science Museum on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate><atom:link href="https://doks.netlify.app/participants/science-museum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 17:50:41 +0100</lastBuildDate><atom:link href="https://atiro.github.io/croft-demo-museums/participants/science-museum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://doks.netlify.app/participant/science-museum/</link>
+      <link>https://atiro.github.io/croft-demo-museums/participant/science-museum/</link>
       <pubDate>Sat, 26 Jun 2021 17:50:41 +0100</pubDate>
       
-      <guid>https://doks.netlify.app/participant/science-museum/</guid>
+      <guid>https://atiro.github.io/croft-demo-museums/participant/science-museum/</guid>
       <description></description>
     </item>
     
