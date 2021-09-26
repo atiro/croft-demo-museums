@@ -25,6 +25,7 @@
     "lint:styles": "stylelint \"assets/scss/**/*.{css,sass,scss,sss,less}\"",
     "lint:markdown": "markdownlint *.md content/**/*.md",
     "server": "exec-bin bin/hugo/hugo server",
+    "server:preview": "exec-bin bin/hugo/hugo server -D",
     "test": "npm run -s lint",
     "env": "env",
     "precheck": "npm version",
