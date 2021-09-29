@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="preload" as="font" href="https://atiro.github.io/croft-demo-museums/fonts/vendor/jost/jost-v4-latin-regular.woff2" type="font/woff2" crossorigin>
 <link rel="preload" as="font" href="https://atiro.github.io/croft-demo-museums/fonts/vendor/jost/jost-v4-latin-700.woff2" type="font/woff2" crossorigin>
+<link rel="manifest" href="https://atiro.github.io/croft-demo-museums/manifest.json">
 
   <link rel="stylesheet" href="https://atiro.github.io/croft-demo-museums/main.e57f68925c2f5f338ea5b444cc38d3b80e76cc8fa278acfaeebda7322f43fad407ff87c9698ef6d9bb99b265024bf4a00d12b7360baf586e749146475ce52c32.css" integrity="sha512-5X9oklwvXzOOpbREzDjTuA52zI&#43;ieKz67r2nMi9D&#43;tQH/4fJaY722buZsmUCS/SgDRK3NguvWG50kUZHXOUsMg==" crossorigin="anonymous">
 <noscript><style>img.lazyload { display: none; }</style></noscript>
@@ -218,6 +219,23 @@
     <script src="https://atiro.github.io/croft-demo-museums/js/bootstrap.min.d67050adf5d370668aede4201f82af781b16970934804995a1ca37c1ee9222c2fc530972aa6d5d2b6124caf1fe318f139aac99df2c1e89af65504fc1185c7972.js" integrity="sha512-1nBQrfXTcGaK7eQgH4KveBsWlwk0gEmVoco3we6SIsL8Uwlyqm1dK2EkyvH&#43;MY8TmqyZ3yweia9lUE/BGFx5cg==" crossorigin="anonymous" defer></script>
   <script src="https://atiro.github.io/croft-demo-museums/js/highlight.min.4e54aa788c471d1858b8d5710942fcbd986cfa1f023a8673ac8363a59fead33f9ebdb2d68f43c5951b0cee515c8021cd8471fa1670d5cbdecc64e4d50b298a8a.js" integrity="sha512-TlSqeIxHHRhYuNVxCUL8vZhs&#43;h8COoZzrINjpZ/q0z&#43;evbLWj0PFlRsM7lFcgCHNhHH6FnDVy97MZOTVCymKig==" crossorigin="anonymous" defer></script>
   <script src="https://atiro.github.io/croft-demo-museums/main.min.afa95ced5821ad4bc06dae3e5f0a20fe6675326e5c7f5a0444a8dd9186718161f21573b997b30f49b3048cdb164d6c7bc2a69913149ddfb86801bd3730f8ae1e.js" integrity="sha512-r6lc7VghrUvAba4&#43;Xwog/mZ1Mm5cf1oERKjdkYZxgWHyFXO5l7MPSbMEjNsWTWx7wqaZExSd37hoAb03MPiuHg==" crossorigin="anonymous" defer></script>
-  
+  <script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+
+</script>
+
+
   </body>
 </html>
